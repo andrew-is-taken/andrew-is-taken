@@ -3,7 +3,6 @@
 # 💫 About Me:
 - 👨‍🎓 I’m currently studying CS at Technical University of Munich
 - 👨‍💻 I'm doing my own project - "Portals" - 3D Mobile Game with Unity
-- 🔭 I'm working on the "CV Maker" web application
 - 📫 How to reach me: https://www.linkedin.com/in/andrewsha-koshelev/
 
 # 🔝 Best skills:
